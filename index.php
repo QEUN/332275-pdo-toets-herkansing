@@ -21,9 +21,9 @@
 <div class="container">
     <div class="row">
         <div class="col-sm">
-            <form action="" method="POST">
+            <form action="./create.php" method="POST">
                 <p>Burritoformaat</p>
-                <select name="burritoformaat" class="form-select" aria-label="Default select example">
+                <select name="size" class="form-select" aria-label="Default select example">
                     <option selected value="20-centimeter">20 centimeter</option>
                     <option value="25-centimeter">25 centimeter</option>
                     <option value="30-centimeter">30 centimeter</option>
